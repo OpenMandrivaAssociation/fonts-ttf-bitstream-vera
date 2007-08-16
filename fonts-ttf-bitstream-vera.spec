@@ -1,6 +1,6 @@
 Name: fonts-ttf-bitstream-vera
 Version: 1.10
-Release: %mkrel 4
+Release: %mkrel 5
 Summary: Bitstream Vera ttf fonts
 Group: Development/X11
 BuildArch: noarch
