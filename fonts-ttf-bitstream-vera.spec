@@ -13,8 +13,8 @@ BuildRequires: x11-font-util >= 1.0.0
 BuildRequires: x11-util-macros >= 1.0.1
 Conflicts: xorg-x11 <= 6.9.0
 Provides: fonts-ttf-vera
-PreReq: mkfontdir
-PreReq: mkfontscale
+Requires(post): mkfontdir mkfontscale
+Requiresun(post): mkfontdir mkfontscale
 
 %description
 Bitstream Vera ttf fonts
