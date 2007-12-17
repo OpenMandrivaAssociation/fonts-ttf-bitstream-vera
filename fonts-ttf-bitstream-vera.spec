@@ -7,7 +7,6 @@ BuildArch: noarch
 URL: http://www.gnome.org/fonts/
 Source: http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/ttf-bitstream-vera-%{version}.tar.bz2
 License: Bitstream Vera Fonts Copyright
-BuildRoot: %{_tmppath}/%{name}-root
 BuildRequires: fontconfig
 BuildRequires: x11-font-util >= 1.0.0
 BuildRequires: x11-util-macros >= 1.0.1
