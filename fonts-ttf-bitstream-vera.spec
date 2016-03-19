@@ -1,7 +1,7 @@
 Summary:	Bitstream Vera ttf fonts
 Name:		fonts-ttf-bitstream-vera
 Version:	1.10
-Release:	23
+Release:	24
 Group:		Development/X11
 License:	Bitstream Vera Fonts Copyright
 Url:		http://www.gnome.org/fonts/
