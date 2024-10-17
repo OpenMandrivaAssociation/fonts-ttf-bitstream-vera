@@ -4,7 +4,7 @@ Version:	1.10
 Release:	27
 Group:		Development/X11
 License:	Bitstream Vera Fonts Copyright
-Url:		http://www.gnome.org/fonts/
+Url:		https://www.gnome.org/fonts/
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/ttf-bitstream-vera-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	fontconfig
